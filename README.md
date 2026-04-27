@@ -1,1 +1,1 @@
-# Prompt-Design
+# PromptDesign.github.io
